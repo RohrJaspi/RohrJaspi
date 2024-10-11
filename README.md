@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AceWolf.eu**
 
-- 🌱 I’m currently learning **React, Python and Java**
+- 🌱 I’m currently learning **React and Python**
 
 - 👨‍💻 All of my projects are available at [rohrjaspi.dev](rohrjaspi.de)
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 All of my projects are available at [rohrjaspi.dev](rohrjaspi.de)
+- 👨‍💻 All of my projects are available at [rohrjaspi.de](rohrjaspi.de)
 
 - 📫 How to reach me **contact@rohrjaspi.de**
 

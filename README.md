@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RohrJaspi</h1>
-<h3 align="center">A passionate Full stack developer from Switzerland</h3>
+<h3 align="center">A passionate Java developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **AceWolf.eu**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **React and Python**
 
